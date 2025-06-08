@@ -6,14 +6,11 @@ Clocksy is a modern, React-based digital clock application designed to provide t
 
 - 🕐 Real-time clock display with customizable time formats 12h/24h
 - 📱 Responsive design for desktop and mobile devices
-- 🐳 Containerized deployment with Docker for consistent environments
 
 ## 📋 Prerequisites
 
 - 🟢 Node.js 18.x or higher
 - 📦 npm or yarn
-- 🐳 Docker and Docker Compose (for containerized setup)
-- 📂 Git
 
 ## 🚀 Local Setup
 
@@ -49,33 +46,6 @@ yarn start
 ```
 
 4. Open `http://localhost:3000` in your browser.
-
-## 🐳 Docker Setup
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Bhavin-Pathak/clocksy.git
-cd clocksy
-```
-
-2. Build and run using Docker Compose:
-
-```bash
-docker-compose up --build
-```
-
-3. Access the application at `http://localhost:3000`.
-
-To stop the containers:
-
-```bash
-docker-compose down
-```
-
-## 💻 Usage
-
-Navigate to `http://localhost:3000` to view the clock interface.
 
 ## 🤝 Contributing
 
