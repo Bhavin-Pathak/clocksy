@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clocksy/static/css/main.bca6df8d.css",
+    "main.js": "/clocksy/static/js/main.bed08698.js",
+    "static/js/453.dbf99283.chunk.js": "/clocksy/static/js/453.dbf99283.chunk.js",
+    "index.html": "/clocksy/index.html",
+    "main.bca6df8d.css.map": "/clocksy/static/css/main.bca6df8d.css.map",
+    "main.bed08698.js.map": "/clocksy/static/js/main.bed08698.js.map",
+    "453.dbf99283.chunk.js.map": "/clocksy/static/js/453.dbf99283.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bca6df8d.css",
+    "static/js/main.bed08698.js"
+  ]
+}
