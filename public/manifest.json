@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Clocksy",
+  "name": "Clocksy - Your Digital Clock",
   "icons": [
     {
       "src": "favicon.ico",
